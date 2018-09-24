@@ -1,11 +1,16 @@
 _repo: Irrigation-Works-The-Principles-on-which-their-Design-and-Working-should-be-Based_56113
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 56113-h/images/cover_sm.jpg
 creator:
   author:
     agent_name: Bellasis, E. S.
     gutenberg_agent_id: '48677'
     url: http://www.gutenberg.org/2009/agents/48677
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56113#Irrigation-Works-The-Principles-on-which-their-Design-and-Working-should-be-Based
 gutenberg_issued: '2017-12-03'
 gutenberg_type: Text
 identifiers:
